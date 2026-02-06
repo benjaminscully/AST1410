@@ -39,4 +39,7 @@
   RGB_to_AGB_wind_switch = 1d-4
   Dutch_scaling_factor = 0.8
 
+  ! when to stop
+  stop_at_phase_O_Burn = .true.
+
 / ! end of controls namelist
